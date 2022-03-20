@@ -1,5 +1,7 @@
 # How react works?
 
+## I will read [reactjs.org] completely (https://reactjs.org/docs/react-component.html#gatsby-focus-wrapper)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
